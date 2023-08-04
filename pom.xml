@@ -60,11 +60,7 @@
 			<scope>test</scope>
 		</dependency>
 	
-	<dependency>
-		<groupId>com.student</groupId>
-		<artifactId>StudentApplication</artifactId>
-		<version>1.0</version>
-	</dependency>
+
 	</dependencies>
 
 	<build>
