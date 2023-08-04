@@ -17,7 +17,7 @@ public class SpringBootStudentManagementWithRestApiApplication {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootStudentManagementWithRestApiApplication.class, args);
-        System.out.println("Start SM");
+        System.out.println("Start Student Management......");
 	}
 
 }
